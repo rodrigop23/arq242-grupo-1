@@ -1,12 +1,18 @@
 # Anthony Canon
 
 ## Nombre y carrera
+#### Anthony Canon, ingeniería en sistemas
 
 ## Experiencia en desarrollo de software
+#### 5 meses como practicante de desarrollo web
 
 ## Tecnologias que conozco
+#### JS, C#, java
 
 ## Cual es mi expectativa del curso
+#### Aprender como construir una arquitectura de software de manera correcta
 
 ## Como me veo en 10 años
+#### De manera profesional como un ing de software senior o similar
+
 
