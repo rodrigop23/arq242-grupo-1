@@ -4,7 +4,7 @@
 ## Carrera de ingeniería de sistemas
 
 ¿Cual es mi experiencia en desarrollo de software?
-Por el momento no tengo experiencia en el campo laboral
+Por el momento no tengo experiencia en el campo laboral, únicamente en los cursos de ingenieria de software 2 y programación móvil
 
 ¿Que tecnologías conozco o domino?
 - React
