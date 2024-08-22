@@ -14,7 +14,7 @@ Por el momento no tengo experiencia en el campo laboral, únicamente en los curs
 
 ¿Cual es mi expectativa del curso?
 
-Espero aprender y adquirir habilidades para poder diseñar y construir software eficiente, aprender sobre las buenas practicas de programación y desarrollo; y aprender a manejar documentación de software
+Espero aprender y adquirir habilidades para poder diseñar y construir software eficiente, aprender sobre las buenas practicas de programación y desarrollo; y aprender a manejar documentación de software.
 
 
 ¿Como me veo en 10 años?
