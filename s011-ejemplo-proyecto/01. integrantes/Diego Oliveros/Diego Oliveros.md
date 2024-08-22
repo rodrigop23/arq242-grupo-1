@@ -1,11 +1,11 @@
-# Diego Oliveros
+# Diego Oliveros Alva
 
-## Nombre y carrera
+### Nombre y carrera
 
-## ¿Cuál es mi experiencia en desarrollo de software?
+### ¿Cuál es mi experiencia en desarrollo de software?
 
-## ¿Qué tecnologías conozco o domino?
+### ¿Qué tecnologías conozco o domino?
 
-## ¿Cuál es mi expectativa del curso?
+### ¿Cuál es mi expectativa del curso?
 
-## ¿Cómo me veo en 10 años?
+### ¿Cómo me veo en 10 años?
