@@ -15,4 +15,8 @@
 ## Como me veo en 10 años
 #### Trabajando como ing de software o similar
 
+[Ver integrantes](../integrantes.md)
+
+[Regresar al índice](../../proyecto.md)
+
 
