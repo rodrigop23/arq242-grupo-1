@@ -13,6 +13,6 @@
 #### Aprender como construir una arquitectura de software de manera optima, asi como aumentar mi conocimiento en tecnologias
 
 ## Como me veo en 10 años
-#### De manera profesional como un ing de software senior o similar
+#### Trabajando un ing de software o similar
 
 
