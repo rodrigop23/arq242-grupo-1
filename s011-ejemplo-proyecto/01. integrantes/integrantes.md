@@ -4,5 +4,6 @@
 - [Jeff Bezos](bezos/bezos.md)
 - [Bill Gates](gates/gates.md)
 - [Sebastián Guzmán](guzman/guzman.md)
+- [Rodrigo Pérez](Rodrigo%20Pérez/Rodrigo%20Pérez.md)
 
 [Regresar al índice](../proyecto.md)
