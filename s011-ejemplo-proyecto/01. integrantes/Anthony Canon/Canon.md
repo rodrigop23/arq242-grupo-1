@@ -7,7 +7,7 @@
 #### 5 meses como practicante de desarrollo web
 
 ## Tecnologias que conozco
-#### JS, C#, java
+#### JS, C#, java, gitlab, angular
 
 ## Cual es mi expectativa del curso
 #### Aprender como construir una arquitectura de software de manera correcta
